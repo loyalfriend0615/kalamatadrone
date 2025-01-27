@@ -1,5 +1,5 @@
 // Initialize EmailJS
-    emailjs.init("RZeLqZZY8D09xiGN3"); // Replace with your EmailJS Public Key
+    emailjs.init("qJfXYmXxDTFUW6thC"); // Replace with your EmailJS Public Key
 
   // Handle form submission
   const form = document.getElementById('contactForm');
@@ -17,7 +17,7 @@ console.log('Form submitted:', {
 });
 
     // Send the email
-    emailjs.send("service_1kxibqc", "template_jwv3jv7", {
+    emailjs.send("service_cyqp66q", "template_dwczgze", {
       user_name: name1,
       user_email: email,
       user_message: message,
