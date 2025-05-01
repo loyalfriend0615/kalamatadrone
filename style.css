@@ -73,14 +73,14 @@ nav h5 a:hover {
     bottom: 64px;
     right: 27px;
 }
-#landing-prices-container h1 {
+#landing-prices-container h2 {
     margin: 0;
     font-family: 'Adobe Clean', 'Times New Roman';
     font-size: 106px;
     color: white;
     font-weight:normal;
 }
-#landing-prices-container h1 span {
+#landing-prices-container h2 span {
     font-family: 'Adobe Clean', 'Times New Roman';
     font-size: 31px;
     color: white;
@@ -94,7 +94,7 @@ nav h5 a:hover {
     width: 50%;
     padding: 10px 50px 0 50px;
 }
-#middle-section h1 {
+#middle-section h2 {
     font-family: 'Adobe Clean', 'Times New Roman';
     font-size: 55px;
     margin: 20px 0;
@@ -107,7 +107,7 @@ nav h5 a:hover {
     padding: 0 50px;
     margin-top: 80px;
 }
-#gallery h1 {
+#gallery h2 {
     font-family: 'Adobe Clean', 'Times New Roman';
     font-size: 55px;
     margin: 20px 0;
@@ -217,7 +217,7 @@ nav h5 a:hover {
     padding: 2rem 2rem 5rem 2rem;
 }
 
-.contact-form h1 {
+.contact-form h2 {
     font-family: 'Adobe Clean', sans-serif;
     font-size: 3.5rem;
     font-weight: 600;
@@ -303,7 +303,7 @@ button:hover {
     #middle-section>div {
         width: calc(100% - 100px);
     }
-    #landing-prices-container h1 {
+    #landing-prices-container h2 {
         font-size: 92px;
     }
 }
@@ -340,7 +340,7 @@ button:hover {
         left: 50%;
         transform: translateX(-50%);
     }
-    #landing-prices-container h1 {
+    #landing-prices-container h2 {
         font-size: 65px;
     }
     #gallery {
@@ -352,7 +352,7 @@ button:hover {
     .carousel-track {
         height: 490px;
     }
-    #landing-prices-container h1 span {
+    #landing-prices-container h2 span {
         font-size: 24px;
     }
     #middle-section>div {
@@ -374,7 +374,7 @@ button:hover {
         flex-direction: column;
     }
     
-    .contact-form h1 {
+    .contact-form h2 {
         font-size: 4rem;
     }
     nav {
@@ -433,12 +433,12 @@ button:hover {
         font-size: 17px;
         line-height: 25px;
     }
-    #middle-section h1 {
+    #middle-section h2 {
         font-family: 'Adobe Clean', 'Times New Roman';
         font-size: 39px;
         margin: 20px 0;
     }
-    #gallery h1 {
+    #gallery h2 {
         font-size: 39px;
     }
     #middle-section {
@@ -447,7 +447,7 @@ button:hover {
     #gallery {
         margin-top: 35px;
     }
-    .contact-form h1 {
+    .contact-form h2 {
         font-size: 3rem;
     }
     #landing-container>img {
@@ -485,10 +485,10 @@ button:hover {
         width: 172px;
         height: 26px;
     }
-    #landing-prices-container h1 span {
+    #landing-prices-container h2 span {
         font-size: 19px;
     }
-    #landing-prices-container h1 {
+    #landing-prices-container h2 {
         font-size: 51px;
     }
     #landing-container {
